@@ -1,0 +1,15 @@
+TIMESTAMP: 2026-10-27 14:42:52
+LEVEL: INFO
+TEST ID: TC-04
+CLICKED LINK: "CONTACT" 
+EXPECTED RESULT: URL is https://ngoga905.github.io/devops-assignment/contact.html
+ACTUAL RESULT: URL is https://ngoga905.github.io/devops-assignment/contact.html
+STATUS: PASS
+DURATION: 6.6 s
+
+RUN SUMMARY:
+Page title: Contact Us
+URL: https://ngoga905.github.io/devops-assignment/contact.html
+Browser and version: chrome 156.0.8078.48
+Error message: None
+----------------------------------------

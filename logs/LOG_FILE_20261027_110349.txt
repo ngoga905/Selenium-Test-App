@@ -1,0 +1,15 @@
+TIMESTAMP: 2026-10-27 11:03:49
+LEVEL: ERROR
+TEST ID: TC-05
+WHAT WAS TESTED: Click "HOME" in the main menu
+EXPECTED RESULT: URL is https://sangwa-java-apps.github.io/collabo_assignment/
+ACTUAL RESULT: URL is https://sangwa-java-apps.github.io/collabo_assignment/index.html
+STATUS: FAIL
+DURATION: 3.7 s
+SUPPORTING DATA:
+    Page title: Eng. SANGWA Emmanuel | Software Engineer
+    URL: https://sangwa-java-apps.github.io/collabo_assignment/index.html
+    Browser and version: chrome 156.0.8078.48
+    Error message: Expected https://sangwa-java-apps.github.io/collabo_assignment/ 
+    but got https://sangwa-java-apps.github.io/collabo_assignment/index.html
+----------------------------------------

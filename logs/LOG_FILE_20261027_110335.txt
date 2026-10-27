@@ -1,0 +1,14 @@
+TIMESTAMP: 2026-10-27 11:03:35
+LEVEL: INFO
+TEST ID: TC-01
+WHAT WAS TESTED: Click "ABOUT" in the main menu
+EXPECTED RESULT: URL is https://sangwa-java-apps.github.io/collabo_assignment/about.html
+ACTUAL RESULT: URL is https://sangwa-java-apps.github.io/collabo_assignment/about.html
+STATUS: PASS
+DURATION: 8.4 s
+SUPPORTING DATA:
+    Page title: About | Eng. SANGWA Emmanuel
+    URL: https://sangwa-java-apps.github.io/collabo_assignment/about.html
+    Browser and version: chrome 156.0.8078.48
+    Error message: None
+----------------------------------------

@@ -1,0 +1,11 @@
+TEST ID: TC_005
+Test Title:HOME
+LOG LEVEL: ERROR
+EXPECTED(URL): https://sangwa-java-apps.github.io/collabo_assignment/
+ACTUAL (URL): https://sangwa-java-apps.github.io/collabo_assignment/index.html
+STATUS: FAIL
+DURATION: 3.12s
+BROWSER AND VERSION: chrome 156.0.8078.48
+ERROR MESSAGE: Expected https://sangwa-java-apps.github.io/collabo_assignment/ but got https://sangwa-java-apps.github.io/collabo_assignment/index.html
+Time of test:2026-10-27 10:43:34.456241
+----------------------------------------
